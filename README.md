@@ -72,21 +72,9 @@ ElectricVehicleRangePrediction/
 └── README.md                                    # Project documentation
 ```
 
-### 📸 Screenshots
-
-[Insert screenshots of key notebook outputs or visualizations here.]
-
 ### 🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-### 📝 License
-
-[Insert license information here.]
-
-### 📬 Contact
-
-For questions or suggestions, please contact [Your Name] at [your email] or reach out on [your LinkedIn profile].
 
 ### 💖 Thanks Message
 
